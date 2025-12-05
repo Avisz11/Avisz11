@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there
+
+<h2>I am Avis. Primarily a game developer.</h2>
 
 <!--
 **Avisz11/Avisz11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
