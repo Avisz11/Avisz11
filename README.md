@@ -1,6 +1,7 @@
 ## Hi there
 
 <h2>I am Avis. Primarily a game developer.</h2>
+<p>I work in mainly godot, and have worked with unity in the past. I love learning new stuff and graphics programming.</p>
 
 <!--
 **Avisz11/Avisz11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
